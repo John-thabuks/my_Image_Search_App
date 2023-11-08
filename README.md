@@ -26,7 +26,7 @@ Follow the instructions below to set up and run the Image Search App locally on 
 2. Change to the project directory:
 
 ```bash
-    cd your-repo
+    cd my_Image_Search_App
 ```
 
 3. Install project dependencies:
