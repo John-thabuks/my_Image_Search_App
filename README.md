@@ -20,7 +20,7 @@ Follow the instructions below to set up and run the Image Search App locally on 
 1. Clone the repository to your local machine:
 
 ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone git@github.com:John-thabuks/my_Image_Search_App.git
 ```
 
 2. Change to the project directory:
