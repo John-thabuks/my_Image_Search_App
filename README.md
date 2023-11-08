@@ -2,6 +2,8 @@
 
 An image search web application that allows users to search for images using the Unsplash API. Users can enter search queries and view image results with links to the source.
 
+![[app.png|400]]
+
 ## Getting Started
 
 Follow the instructions below to set up and run the Image Search App locally on your machine.
