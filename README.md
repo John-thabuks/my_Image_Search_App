@@ -2,7 +2,7 @@
 
 An image search web application that allows users to search for images using the Unsplash API. Users can enter search queries and view image results with links to the source.
 
-![app.png|400](/home/thabuks/Development/code/phases_1/Image-Search-App/images/app.png)
+![app.png|400](images/app.png)
 
 
 
