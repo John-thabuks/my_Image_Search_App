@@ -18,19 +18,19 @@ Follow the instructions below to set up and run the Image Search App locally on 
     git clone https://github.com/yourusername/your-repo.git
 ```
 
-1. Change to the project directory:
+2. Change to the project directory:
 
 ```bash
     cd your-repo
 ```
 
-2. Install project dependencies:
+3. Install project dependencies:
 
 ```bash
     npm install
 ```
 
-3. Set up your Unsplash API access key:
+4. Set up your Unsplash API access key:
 
 - Get an API access key from Unsplash.
 - Replace YOUR_ACCESS_KEY in script.js with your actual access key.
@@ -63,6 +63,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 This project was created as a sample project for learning purposes.
+
+The preview published page: [[https://john-thabuks.github.io/my_Image_Search_App/]]
 
 ## Author
 Name: John Muthabuku
